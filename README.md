@@ -1,4 +1,4 @@
-# [FTB Presents Direwolf20 1.18](https://feed-the-beast.com/modpack/ftb_presents_direwolf20_1_18) By FTB
+# [FTB Presents Direwolf20 1.18](https://feed-the-beast.com/modpack/95-ftb_presents_direwolf20_1_18) By FTB
 
 <!-- toc -->
 
