@@ -5,7 +5,7 @@ FROM openjdk:18.0.2-jdk-buster
 LABEL version="1.11.0"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Presents Direwolf20 1.18"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/90/1024_1024.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/ad/ad980c51db980730fb00e1f5b145c8ffbb39b2f8f1b326044c5d5310d1e3e82a.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://FTBDirewolf20_118:25565
 
